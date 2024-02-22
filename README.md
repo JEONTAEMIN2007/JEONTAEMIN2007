@@ -1,2 +1,1 @@
-HI~
-I'm Jeon Taemin! I'm usually making malware related to wifi using c# or esp32 board called Arduino
+Hello world! I'm Jeon Taemin! Nice to meet you, brother
